@@ -85,6 +85,7 @@ about:
   license: LicenseRef-NVIDIA-End-User-License-Agreement
   license_file: LICENSE
   license_url: https://docs.nvidia.com/cuda/cufftmp/license.html
+  license_family: Other
   summary: The NVIDIA cuFFTMp (cuFFT Multi-process) library
   description: >-
     The multi-node FFT functionality, available through the cuFFTMp API, enables
@@ -92,6 +93,7 @@ about:
     problems. The library handles all the communications between machines,
     allowing users to focus on other aspects of their problems.
   doc_url: https://docs.nvidia.com/cuda/cufftmp/
+  dev_url: https://docs.nvidia.com/cuda/cufftmp/
 
 extra:
   recipe-maintainers:
