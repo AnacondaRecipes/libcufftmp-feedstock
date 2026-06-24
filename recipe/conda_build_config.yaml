@@ -1,0 +1,7 @@
+arm_variant_type:  # [aarch64]
+  - sbsa           # [aarch64]
+
+# libcufftmp 11.4.x is available for CUDA 12.9 only
+cuda_compiler_version:
+  - None
+  - 12.9
